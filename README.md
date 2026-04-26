@@ -12,7 +12,7 @@
 2. [refcount_garbage-collector](https://github.com/anand-anshul/refcount-gc)
 
 ### Machine Learning
-1. [PPG_Signal_Analysis_using_Fuzzy-GRU_for Cerebral_Infarction_Detection](https://github.com/anand-anshul/CI-detection)
+1. [PPG-Signal_Analysis_using_Fuzzy-GRU_for Cerebral-Infarction_Detection](https://github.com/anand-anshul/CI-detection)
 
 ### DevOps
 1. [kube-curse](https://github.com/anand-anshul/kube-curse)
