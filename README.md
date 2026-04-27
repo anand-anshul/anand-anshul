@@ -1,4 +1,4 @@
-![hello-world](./assets/ascii-text-art.png)
+![hello-world](./assets/ascii-text-art%20(3).png)
 ### Backend:
 1. [rag_search_engine](https://github.com/anand-anshul/hybrid_search_rag_engine)
 2. [http_from_tcp](https://github.com/anand-anshul/httpfromtcp)
